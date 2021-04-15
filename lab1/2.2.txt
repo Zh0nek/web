@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            body {
+                background-color:rgb(235, 233, 200);
+            }
+            .headings {
+                color:rgb(176, 48, 88);
+            }
+            #places-list{
+                color:rgb(33, 30, 94);
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class='headings'>Алматы</h1>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Almaty_montage_2015.PNG/435px-Almaty_montage_2015.PNG" alt="Almaty" width="400">
+        
+        <p> <strong>Алматы[6]</strong> (каз. Алматы, Almaty (инф.)[7]; до 1921 года — <strong>Верныйт</strong>) — город республиканского значения и крупнейший населённый пункт Республики Казахстан, <strong>бывшая столица Казахстанат</strong> (до 1997), Казахской ССР (в составе СССР), Казахской АССР (в составе РСФСР).
+
+По данным на начало 2020 года население города — 1 916 822 человек[2].<strong></strong> </p>
+        
+        <h2 class = "headings">Туризм</h2>
+        <ul id="places-list">
+            <li>Медео
+<li>Чимбулак</li>
+<li>Большое Алматинское озеро</li>
+<li>Чарынский каньон</li>
+<li>Кок-Тобе</li>
+<li>Табаган</li>
+<li>Ак Булак</li>
+        </ul>
+        
+        <h3 class = 'headings'>Спорт</h3>
+        <p><em>Алма-Ата получила право на проведение зимних Азиатских игр в 2011 году. Для зимних Азиатских игр в Алма-Ате был построен целый ансамбль современных арен: ледовый стадион с 400-метровой дорожкой, лыжный и биатлонный стадионы, новая горнолыжная база, 90- и 120-метровый трамплины с трибунами на 20 тысяч зрителей, санно-бобслейная трасса.</em></p>
+        <p>Каток Медео на почтовой марке СССР, 1988</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/1988_CPA_5923.jpg/330px-1988_CPA_5923.jpg" alt="Long Room, Trinity College" width="400">
+        <p>Алма-Ата из космоса</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Almaty_landsat.jpg/365px-Almaty_landsat.jpg" alt="St. Stephens Green" width="400">
+        <h2>Районы города</h2>
+        <ul> <li>   Алатауский</li>
+    <li>Алмалинский</li>
+    <li>Ауэзовский</li>
+    <li>Бостандыкский</li>
+    <li>Медеуский</li>
+    <li>Наурызбайский</li>
+    <li>Турксибский</li>
+    <li>Жетысуский</li></ul>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Almaty_Koktobe_2007.JPG/330px-Almaty_Koktobe_2007.JPG" alt="Grafton Street" width="400">
+    </body>
+</html>

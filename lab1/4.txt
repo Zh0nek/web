@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+        <style>
+            body{
+                background-color:rgb(242, 175, 242);
+            }
+            .id1{
+                color:rgb(35, 35, 217);
+                background-color : rgb(114, 176, 204);
+            }
+            .id2{
+                color: purple;
+            	font-weight: bold;
+            	text-decoration: underline;
+            }
+            p{
+                font-family: cursive;
+                font-size: 13px;
+                font-style:  italic ;
+		        line-height:1.5em;
+		        text-align: center;
+		        color:rgb(0, 0, 0);
+            }
+            h1{
+                color:rgb(44, 222, 65);
+            }
+            h3{
+                color:rgb(35, 35, 217);
+                background-color : rgb(114, 176, 204);
+            }
+            
+        </style>
+        <h1>Zhanel's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li class="id2"><a href="#id4">First post!</a></li>
+            <li class="id2"><a href="#id5">Second post!</a></li>
+            <li class="id2"><a href="#id6">Third post!</a></li>
+        </ul>
+        
+        <h2 class="id2" id = "id4">First post</h2>
+        <h6>24 января 2020</h6>
+        
+        <p><em>Уильям Вард </em>говорил, что есть четыре шага к любому великому достижению: четкое планирование, тщательная подготовка, позитивный настрой и работа с усердием.</p>
+---
+<p >
+Конечно, на словах это легко, но если учитывать свою цель, то насколько она для вас важна, значит, вы сможете добиться её благодаря этим аспектам.
+
+Снова придется планировать, готовиться и работать…</p>
+    <h2 class="id2" id = "id5">Second post</h2>
+        <h6>24 января 2020</h6>    
+    <p>Ve güzellik dehanın bir halidir - hakikaten dehadan daha yücedir çünkü açıklamaya gerek duymaz.<br>
+
+Красота, это одно из состояний гениальности, честно, оно даже больше чем гениальность, так как не требует от себя изъяснений.
+
+<strong>Оскар Уайльд "Портрет Дориана Грея"</strong></p>
+<h2 class="id2" id = "id6">Third post</h2>
+        <h6>30 января 2020</h6> 
+<p>
+Все в мире непрочно, кроме любви. Любовь не может сбиться с пути, если только это настоящая любовь, а не хилый уродец спотыкающийся и падающий на каждом шагу.
+<br><strong>
+©Джек Лондон "Мартин Иден"</strong></p>
+    </body>
+</html>
